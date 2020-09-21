@@ -1,0 +1,54 @@
+12 eylul 2020
+aklimizda kalanlar
+
+sdlc : 	software development life cycle
+		yazalım geliştirme yaşam döngüsü
+
+SDLC nin amaci : high quality ve user expectation a uygun urun gelistirmek
+High Quality		: Yuksek kalite
+User expectation 	: kullanici beklentileri
+
+SDLC nin faydalari
+1-kontrole izin vermesi
+2-proje takibinin saglanmasi
+3-yatirimcilara gozleleme imkani
+4-riski azaltma
+5-projenin hizini artirma
+6- iletisimi artirma
+
+SDLC asamalari
+1- planning -planlama
+2- definnig - analiz ve user expectation lari tanimlama
+3- desining - tasarim
+4- development-Building - yazilim
+5- testing - test 
+6- deployment, release , maintanence --- yayinlama, surdurme ve bakim
+
+SDLC takimi
+
+1- PM project manager
+	- koordinasyon
+	- gorev dagilimi
+	- stakeholders ile gorusmeler
+	- ekibin projeye olan inancinin saglanmasi ve devam ettirilmesi
+	- conflict (karisikliklari onleme)
+
+2- BA business Analyst
+	- business kismi ile teknik ekip arasinda kopru gorevi yapar
+	- BRD busines requirement dokuments
+	- FRD functional requirement dokuments
+	- use case ler olusturur
+	- alinan tum kararlarin yazili hale getirilmesinden soriumludur
+	- akis semasi olusturur
+3- Developer
+ 	- yuksek kalitede cod yazar
+ 	- software requirement dokuments 
+ 	- 
+4- QA Tester
+	-  software testing life cycle in tum asamalarindan sorumludur
+	- yazilimin user expectationa uygun ve yuksek kalitede oldugunu test eder
+	- BUG lari bulur.
+
+
+
+
